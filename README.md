@@ -8,6 +8,7 @@ This video shows what you can expect from this demo:
 
 # Vagrant
 
+
 - Website: [https://www.vagrantup.com/](https://www.vagrantup.com/)
 - Source: [https://github.com/hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 - HashiCorp Discuss: [https://discuss.hashicorp.com/c/vagrant/24](https://discuss.hashicorp.com/c/vagrant/24)
