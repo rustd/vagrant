@@ -1,6 +1,8 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: BUSL-1.1
 
+# Test
+
 require "log4r"
 
 # Add patches to log4r to support trace level
