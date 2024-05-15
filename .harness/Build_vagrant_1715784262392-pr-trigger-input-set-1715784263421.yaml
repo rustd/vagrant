@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_vagrant_1715784262392-pr-trigger-input-set
+  identifier: Build_vagrant_1715784262392prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: pranavt1
+  pipeline:
+    identifier: Build_vagrant_1715784262392
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
